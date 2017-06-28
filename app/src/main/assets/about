@@ -1,0 +1,3 @@
+You need to activate wifi as well as location for the app to run.
+First of all goto meanu on top right corner and select SSID of 5 wifi.
+In internal storage, a txt file named "file" will be created which contains main data. In each line, there are 12 points, first 2 are  location (edited by user in editText view), next 5 are mean of 5 wifi (10 readings), next 5 are standard deviation from mean.
